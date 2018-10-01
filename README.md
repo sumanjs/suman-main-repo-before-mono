@@ -3,6 +3,8 @@
 
 [![npm version](https://badge.fury.io/js/suman.svg)](https://badge.fury.io/js/suman)
 
+[![Version](https://img.shields.io/npm/v/suman.svg?colorB=green)](https://www.npmjs.com/package/suman)
+
 [![Greenkeeper badge](https://badges.greenkeeper.io/sumanjs/suman.svg)](https://greenkeeper.io/)
 
 [![Build Status](https://travis-ci.org/sumanjs/suman.svg?branch=master)](https://travis-ci.org/sumanjs/suman)

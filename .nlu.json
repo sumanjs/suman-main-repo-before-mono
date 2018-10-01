@@ -4,7 +4,7 @@
   "alwaysReinstall": false,
   "alwaysRelink": false,
   "searchRoots": [
-    "$HOME/WebstormProjects"
+    "../.."
   ],
   "ignore": [
     "/node_modules/",
